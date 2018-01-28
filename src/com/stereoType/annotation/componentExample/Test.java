@@ -17,7 +17,13 @@ public class Test {
 		emp.setEmpName("Amit");
 		*/
 		System.out.println(emp);
+<<<<<<< HEAD
 		System.out.println("This is just for testing");
+=======
+		System.out.println("this is just testing in branch");
+		
+		System.out.println("testing through the git bash");
+>>>>>>> TestingBranch
 	}
 	
 
