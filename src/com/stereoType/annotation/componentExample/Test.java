@@ -18,6 +18,8 @@ public class Test {
 		*/
 		System.out.println(emp);
 		System.out.println("this is just testing in branch");
+		
+		System.out.println("testing through the git bash");
 	}
 	
 
