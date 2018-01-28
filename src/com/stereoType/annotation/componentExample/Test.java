@@ -17,6 +17,7 @@ public class Test {
 		emp.setEmpName("Amit");
 		*/
 		System.out.println(emp);
+		
 	}
 	
 
